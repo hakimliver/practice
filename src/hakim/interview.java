@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class interview {
 
-
+// nothing
     @Test
     public void prime(){
         int num=17;
